@@ -82,3 +82,25 @@ Now your tasks:
         4. List top 3 south asian countries with lowest inflation rate for year 2020
 
 > Note: Take snapshots as needed for your attempt progress (Code + Output).
+> 
+# Assignment 4. MovieManager Web Portal
+### Movie Mangaer have three related models to deal with:
+`Movie` (ID, Title, Rating, Budget, Gross, Release Date, Genre, Runtime, Summary)
+
+`Actor`(ID, Name, Date of Birth, Birth City, Birth Country, Height (Inches), Biography, Gender, NetWorth)
+
+`Charactor`(MovieID, ActorID, Character Name, Pay, Screentime)
+
+### This app should have following features:
+* Add new movies to database
+* Add new actors to database
+* Add new and update existing characters on database
+* Use Identity server for auth 
+* Dashboard page showing:
+  * List of top 10 flop movies
+  * List of top 5 highest paid actors and role they played
+
+### Requirements
+  1. `ASP.NET Core 7.0+`
+  1. Please use `SQLite` as your database
+  1. Plain `ADO.NET` or Entity Framework tools for data access
