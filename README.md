@@ -1,4 +1,4 @@
-# AsianCollege-.NetCentric-6th-sem-dec24-
+# AsianCollege-.NetCentric-6th-sem-Junr25
 Repo has all the course contents; lab works and the assignments covered 
 
 # Please Note! these assignments are part of your final lab assessment report.
